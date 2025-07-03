@@ -14,4 +14,4 @@ src/CMakeLists.txt
 .vscode
 .catkin_workspace
 .catkin_tools
-src/FAST_LIO_PCD/
+src/FAST_LIO/PCD/
